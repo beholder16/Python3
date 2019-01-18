@@ -1,4 +1,4 @@
-(/scripts/PythonProgramming_intermediate.md#intermediate-python)[← back to *Main Page*]
+[← back to *Main Page*](/scripts/PythonProgramming_intermediate.md#intermediate-python)
 
 ---
 # Functions
