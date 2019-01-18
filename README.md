@@ -12,59 +12,59 @@ This contains the information &amp; sources of Python, which is a programming la
 ## Python Programming
 
 ### Basics on Python
-* [Python Basics](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#basics-on-python)  
+* [Python Basics](/scripts/PythonProgramming_basic.md#basics-on-python)  
 
- - [Basic Objects](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#objects)
- - [Control Flow](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#control-flow)
-   - [Conditionals](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/basic/ControlFlow.md#conditionals)
-     - [Difference between `is` and `==`](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/basic/ControlFlow.md#difference-between--and-is)
-   - [`if` Statements](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/basic/ControlFlow.md#if-statements)
-   - [`while` Statements](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/basic/ControlFlow.md#while-statements)
-   - [`for` Statements](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/basic/ControlFlow.md#for-statements)
- - [Functions](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#functions)
- - [Classes](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#classes)
- - [Modules & Packages](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#modules--packages)
- - [Input & Output](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#input--output)  
+ - [Basic Objects](/scripts/PythonProgramming_basic.md#objects)
+ - [Control Flow](/scripts/PythonProgramming_basic.md#control-flow)
+   - [Conditionals](/scripts/python_programming/basic/ControlFlow.md#conditionals)
+     - [Difference between `is` and `==`](/scripts/python_programming/basic/ControlFlow.md#difference-between--and-is)
+   - [`if` Statements](/scripts/python_programming/basic/ControlFlow.md#if-statements)
+   - [`while` Statements](/scripts/python_programming/basic/ControlFlow.md#while-statements)
+   - [`for` Statements](/scripts/python_programming/basic/ControlFlow.md#for-statements)
+ - [Functions](/scripts/PythonProgramming_basic.md#functions)
+ - [Classes](/scripts/PythonProgramming_basic.md#classes)
+ - [Modules & Packages](/scripts/PythonProgramming_basic.md#modules--packages)
+ - [Input & Output](/scripts/PythonProgramming_basic.md#input--output)  
   
 ### Intermediate Python
-* [Intermediate Python](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_basic.md#basics-on-python)
-  - [Objects](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Object.md#objects)
-    * [Comprehensions](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Object.md#comprehensions)
-  - [Intermediate Functions](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Function.md#functions)
-    * [Nested Functions(Inner Functions)](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Function.md#nested-functions---inner-functions)
-    * [Closures](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Function.md#closures)
-    * [```Lambda```](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Function.md#lambda-functions)
-    * [Generators](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Function.md#generators)
-    * [Decorators](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Function.md#decorators)
+* [Intermediate Python](/scripts/PythonProgramming_basic.md#basics-on-python)
+  - [Objects](/scripts/python_programming/intermediate/Object.md#objects)
+    * [Comprehensions](/scripts/python_programming/intermediate/Object.md#comprehensions)
+  - [Intermediate Functions](/scripts/python_programming/intermediate/Function.md#functions)
+    * [Nested Functions(Inner Functions)](/scripts/python_programming/intermediate/Function.md#nested-functions---inner-functions)
+    * [Closures](/scripts/python_programming/intermediate/Function.md#closures)
+    * [```Lambda```](/scripts/python_programming/intermediate/Function.md#lambda-functions)
+    * [Generators](/scripts/python_programming/intermediate/Function.md#generators)
+    * [Decorators](/scripts/python_programming/intermediate/Function.md#decorators)
 
-  - [Intermediate Classes](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Class.md#classes)
-    * [Inheritance](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Class.md#inheritance)  
-    * [Method Overriding](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Class.md#method-overriding)  
-    * [```super()``` Methods](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/intermediate/Class.md#super-methods)
+  - [Intermediate Classes](/scripts/python_programming/intermediate/Class.md#classes)
+    * [Inheritance](/scripts/python_programming/intermediate/Class.md#inheritance)  
+    * [Method Overriding](/scripts/python_programming/intermediate/Class.md#method-overriding)  
+    * [```super()``` Methods](/scripts/python_programming/intermediate/Class.md#super-methods)
 
 
 
 ### Advanced Python
-* [Advanced Python](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_advanced.md#advanced-python)
-  - [Advanced Functions](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_advanced.md#advanced-python)
-    * [Container](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#containers)
-    * [Iterables](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#iterables)
-    * [Iterators](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#iterators)
-    * [Generators](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#generator)
-      - [```yield``` Statements](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#yield-statement)
-      - [```yield from``` Statements](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#yield-from-statement)
-      - [Generator Comprehension](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#generator-comprehension)
-    * [Coroutine](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/pythonIteration.md#coroutine)
-    * [~~Iterables, Iterators and Generators~~(deprecated)](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Iterator_and_Generator.md#iterables-iterator-generator)
-    * [~~Coroutines~~(deprecated)](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Coroutine.md#coroutine)
+* [Advanced Python](/scripts/PythonProgramming_advanced.md#advanced-python)
+  - [Advanced Functions](/scripts/PythonProgramming_advanced.md#advanced-python)
+    * [Container](/scripts/python_programming/advanced/pythonIteration.md#containers)
+    * [Iterables](/scripts/python_programming/advanced/pythonIteration.md#iterables)
+    * [Iterators](/scripts/python_programming/advanced/pythonIteration.md#iterators)
+    * [Generators](/scripts/python_programming/advanced/pythonIteration.md#generator)
+      - [```yield``` Statements](/scripts/python_programming/advanced/pythonIteration.md#yield-statement)
+      - [```yield from``` Statements](/scripts/python_programming/advanced/pythonIteration.md#yield-from-statement)
+      - [Generator Comprehension](/scripts/python_programming/advanced/pythonIteration.md#generator-comprehension)
+    * [Coroutine](/scripts/python_programming/advanced/pythonIteration.md#coroutine)
+    * [~~Iterables, Iterators and Generators~~(deprecated)](/scripts/python_programming/advanced/Iterator_and_Generator.md#iterables-iterator-generator)
+    * [~~Coroutines~~(deprecated)](/scripts/python_programming/advanced/Coroutine.md#coroutine)
 
-  - [Advanced Classes](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#classes)
-    * [Property](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#property)
-    * [Private Name Mangling](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#private-name-mangling)
-    * [Method Types](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#method-types)
-    * [Duck-typing(lazy-polymorphism)](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#duck-typing)
-    * [Special Methods](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#special-methods)
-    * [Composition & Aggregation](https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/Class.md#composition-and-aggregation)
+  - [Advanced Classes](/scripts/python_programming/advanced/Class.md#classes)
+    * [Property](/scripts/python_programming/advanced/Class.md#property)
+    * [Private Name Mangling](/scripts/python_programming/advanced/Class.md#private-name-mangling)
+    * [Method Types](/scripts/python_programming/advanced/Class.md#method-types)
+    * [Duck-typing(lazy-polymorphism)](/scripts/python_programming/advanced/Class.md#duck-typing)
+    * [Special Methods](/scripts/python_programming/advanced/Class.md#special-methods)
+    * [Composition & Aggregation](/scripts/python_programming/advanced/Class.md#composition-and-aggregation)
 
 
 ### Far More Interesting in Python
@@ -77,39 +77,39 @@ This contains the information &amp; sources of Python, which is a programming la
 ## Built-in Libraries
 
 ### Files & System
-  - [os](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/os.md#os)
-  - [sys](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/sys.md#sys)
-  - [argparse](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/argparse.md#argparse)
-  - [tarfile & zipfile](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/tarfile_zipfile.md#tarfile)
-  - [curse](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/curse.md#curse)
+  - [os](/scripts/python_bil/os.md#os)
+  - [sys](/scripts/python_bil/sys.md#sys)
+  - [argparse](/scripts/python_bil/argparse.md#argparse)
+  - [tarfile & zipfile](/scripts/python_bil/tarfile_zipfile.md#tarfile)
+  - [curse](/scripts/python_bil/curse.md#curse)
   
 ### Programming
-  - [itertools](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/itertools.md#itertools)
-  - [functools](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/functools.md#functools) 
-  - [distutils](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/distutils.md#distutils)
-  - [warnings](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/warnings.md#warnings)
-  - [logging](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/logging.md#logging)
-  - [syslog](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/syslog.md#syslog)
-  - [2to3](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/2to3.md#2to3)
+  - [itertools](/scripts/python_bil/itertools.md#itertools)
+  - [functools](/scripts/python_bil/functools.md#functools) 
+  - [distutils](/scripts/python_bil/distutils.md#distutils)
+  - [warnings](/scripts/python_bil/warnings.md#warnings)
+  - [logging](/scripts/python_bil/logging.md#logging)
+  - [syslog](/scripts/python_bil/syslog.md#syslog)
+  - [2to3](/scripts/python_bil/2to3.md#2to3)
 
 ### Calculation
-  - [math](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/math.md#math)
+  - [math](/scripts/python_bil/math.md#math)
 
 ### Regular Expression
-  - [re](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/re.md#re)
+  - [re](/scripts/python_bil/re.md#re)
 
 ### Data Types
-  - [string](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/string.md#string)
-  - [datetime](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/datetime.md#datetime)
-  - [time](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/time.md#time)
+  - [string](/scripts/python_bil/string.md#string)
+  - [datetime](/scripts/python_bil/datetime.md#datetime)
+  - [time](/scripts/python_bil/time.md#time)
 
 ### Data Structure
-  - [array](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/array.md#array)
-  - [collections](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/collections.md#collections)
-  - [bisect](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/bisect.md#bisect)
+  - [array](/scripts/python_bil/array.md#array)
+  - [collections](/scripts/python_bil/collections.md#collections)
+  - [bisect](/scripts/python_bil/bisect.md#bisect)
 
 ### GUI
-  - [tkinter](https://github.com/pydemia/Python3/blob/master/scripts/python_bil/tkinter.md#tkinter)
+  - [tkinter](/scripts/python_bil/tkinter.md#tkinter)
   
 
 ---
@@ -117,20 +117,20 @@ This contains the information &amp; sources of Python, which is a programming la
 
 ### PyPI
 
-* [PyPI](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi)  
-  - [Create an Account](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--create-an-account)
-  - [Create a Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--create-a-package)
-  - [Build a Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--build-a-package)
-  - [Register a new Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--register-a-new-package-only-at-the-first-time)
-  - [Distribute a Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--distributte-a-package)
+* [PyPI](/scripts/PythonPackaging.md#pypi)  
+  - [Create an Account](/scripts/PythonPackaging.md#pypi--create-an-account)
+  - [Create a Package](/scripts/PythonPackaging.md#pypi--create-a-package)
+  - [Build a Package](/scripts/PythonPackaging.md#pypi--build-a-package)
+  - [Register a new Package](/scripts/PythonPackaging.md#pypi--register-a-new-package-only-at-the-first-time)
+  - [Distribute a Package](/scripts/PythonPackaging.md#pypi--distributte-a-package)
 
 
-* [conda](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#conda)  
-  - [Create an Account](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--create-an-account)
-  - [Create a Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--create-a-package)
-  - [Build a Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--build-a-package)
-  - [Register a new Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--register-a-new-package-only-at-the-first-time)
-  - [Distribute a Package](https://github.com/pydemia/Python3/blob/master/scripts/PythonPackaging.md#pypi--distributte-a-package)
+* [conda](/scripts/PythonPackaging.md#conda)  
+  - [Create an Account](/scripts/PythonPackaging.md#pypi--create-an-account)
+  - [Create a Package](/scripts/PythonPackaging.md#pypi--create-a-package)
+  - [Build a Package](/scripts/PythonPackaging.md#pypi--build-a-package)
+  - [Register a new Package](/scripts/PythonPackaging.md#pypi--register-a-new-package-only-at-the-first-time)
+  - [Distribute a Package](/scripts/PythonPackaging.md#pypi--distributte-a-package)
 
 
 ---
@@ -143,18 +143,18 @@ This contains the information &amp; sources of Python, which is a programming la
 ---
 ## Python Compiler
 ### AOT(Ahead of time) Compiler
-* [Cython](https://github.com/pydemia/Python3/blob/master/scripts/python_compiler/cython.md#cython)
+* [Cython](/scripts/python_compiler/cython.md#cython)
 
 ### JIT(Just in time) Compiler
 * [Numba]()
-* [PyPy](https://github.com/pydemia/Python3/blob/master/scripts/python_compiler/PyPy.md#pypy)
+* [PyPy](/scripts/python_compiler/PyPy.md#pypy)
 
 
 ---
 ## Python Additional Type Object
 
 ### Built-in Libraries
-* [enum.Enum](https://github.com/pydemia/Python3/blob/master/scripts/additional_type/additionaltype.md#python-additional-type-object#enum)
+* [enum.Enum](/scripts/additional_type/additionaltype.md#python-additional-type-object#enum)
 * [collections.namedtuple]()
 * [collections.defaultdict]()
 
