@@ -1,4 +1,4 @@
-[← back to *Main Page*](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_intermediate.md#intermediate-python)
+/scripts/PythonProgramming_intermediate.md#intermediate-python[← back to *Main Page*]()
 
 ---
 # Functions
@@ -366,6 +366,6 @@ res+1: 7 # 2. plusone Decorator
 
 
 ---
-[← back to *Main Page*](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_intermediate.md#intermediate-python)
+[← back to *Main Page*](scripts/PythonProgramming_intermediate.md#intermediate-python)
 
 
