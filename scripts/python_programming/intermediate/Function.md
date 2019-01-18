@@ -177,7 +177,15 @@ editor(numlist, lambda i: i+1)
 5
 ```
 
+**lambda 와 3항 연산자의 차이**
+```py
+a = 1
 
+test1 = 1 if a > 0 else 0 # 이건 그냥 3항 연산자로 값을 assign한 것
+test2 = lambda x : 1 if a > 0 else 0 # 이건 lambda()로 함수를 하나 생성한 것, 함수이기 때문에 동적이며 callable이다. 
+print(test1)
+print(test2(1))
+```
 
 
 ---
