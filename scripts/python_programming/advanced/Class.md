@@ -1,4 +1,4 @@
-[← back to *Main Page*](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_advanced.md#advanced-python)
+[← back to *Main Page*](scripts/PythonProgramming_advanced.md#advanced-python)
 
 
 # Classes
@@ -122,14 +122,13 @@ use **_DOUBLE UNDERSCORE_** naming like ```__init__```, to hide attributes from 
 **_Class Methods_** : _Methods_ have ```cls``` as the first parameter. It affect **_WHOLE CLASSES_** using ```@classmethod```.  
 **_Static Methods_** : These _Methods_ have no parameter. It's just for _Classes_ itself and you don't need to generate _Objects_ to use this _Methods_. just use ```@staticmethod```
 
-
 ### Duck-typing
 
 tbd
 
 ### Special Methods
 
-This contains the basics of Special Methods. More informations are [here].(https://github.com/pydemia/Python3/blob/master/scripts/python_programming/advanced/special_methods.md)
+This contains the basics of Special Methods. More informations are [here].(scripts/python_programming/advanced/special_methods.md)
 
 * **`__init__`** : **Do** something when a `instance` is **`initiated`**. _(cannot use `return` Statement)_
 * **`__new__`** : **Do & Return** something when **`initiated`**. _(can use `return` Statement)_
@@ -220,9 +219,12 @@ len(myobj)
 tbd
 
 
+
+
+
 [↑ Up to the Top](#classes)
 
 
 
 ---
-[← back to *Main Page*](https://github.com/pydemia/Python3/blob/master/scripts/PythonProgramming_advanced.md#advanced-python)
+[← back to *Main Page*](scripts/PythonProgramming_advanced.md#advanced-python)
