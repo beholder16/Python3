@@ -1,4 +1,4 @@
-[← back to *Main Page*](scripts/PythonProgramming_advanced.md#advanced-python)
+[← back to *Main Page*](/scripts/PythonProgramming_advanced.md#advanced-python)
 
 
 # Classes
@@ -227,4 +227,4 @@ tbd
 
 
 ---
-[← back to *Main Page*](scripts/PythonProgramming_advanced.md#advanced-python)
+[← back to *Main Page*](/scripts/PythonProgramming_advanced.md#advanced-python)
