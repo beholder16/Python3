@@ -29,7 +29,7 @@
 * [Special Methods](/scripts/python_programming/advanced/Class.md#special-methods)
 * [Composition & Aggregation](/scripts/python_programming/advanced/Class.md#composition-and-aggregation)
 * [Named-Tuple](/scripts/python_programming/advanced/Class.md#named-tuple)
-* [Abstract Classes] (/scripts/python_programming/advanced/abstract_classes.md)
+* [Abstract Classes](/scripts/python_programming/advanced/abstract_classes.md)
 
 ---
 ## Modules & Packages
