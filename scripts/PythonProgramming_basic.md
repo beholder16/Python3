@@ -1,4 +1,4 @@
-[← back to *Main Page*](README.md)
+[← back to *Main Page*](https://github.com/beholder16/Python3)
 
 
 # Basics on Python
@@ -72,4 +72,4 @@
 * [Output Formatting]()
 
 
-[← back to *Main Page*](https://github.com/dawkiny/Python3/blob/master/README.md)
+[← back to *Main Page*](https://github.com/beholder16/Python3)
